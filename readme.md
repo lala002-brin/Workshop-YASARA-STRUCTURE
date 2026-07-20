@@ -26,7 +26,7 @@ Whether you are new to molecular modeling or looking for a practical reference, 
 This tutorial was collaboratively developed by:
 
 - **Computational Chemistry Research Group**
-  **Research Center for Chemistry**
+  **Research Center for Computing**
   **National Research and Innovation Agency (BRIN), Indonesia**
 
 - **Department of Chemistry**
