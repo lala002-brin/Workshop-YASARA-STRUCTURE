@@ -48,7 +48,7 @@ https://www.yasara.org/products.htm
 
 Download the latest version from:
 
-https://discover.3ds.com/discovery-studio-visualizer-download
+https://drive.google.com/file/d/1FPHDcdrLsVAu87dwlm73z1pRkLePcMQ2/view
 
 > **Note**
 > Although docking and Molecular Dynamics simulations are performed in **YASARA Structure**, Discovery Studio Visualizer is highly recommended for interaction analysis and figure preparation.
