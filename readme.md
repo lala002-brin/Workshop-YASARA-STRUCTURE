@@ -26,11 +26,14 @@ Whether you are new to molecular modeling or looking for a practical reference, 
 This tutorial was collaboratively developed by:
 
 - **Computational Chemistry Research Group**
+
   **Research Center for Computing**
+  
   **National Research and Innovation Agency (BRIN), Indonesia**
 
 - **Department of Chemistry**
   **Faculty of Mathematics and Natural Sciences**
+  
   **Universitas Gadjah Mada (UGM), Indonesia**
 
 The materials presented in this repository are intended to support education, training, and research in molecular modeling and computer-aided drug discovery.
